@@ -1,0 +1,1 @@
+date='2019-09-21', name='Cornedbeef', price='30.00', quantity='12', payment='1200.00'
